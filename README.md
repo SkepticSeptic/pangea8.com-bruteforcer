@@ -11,7 +11,9 @@ which should be easy enough with my fabulous comments.
 # WHAT YOU NEED:
 
 Python3
+
 Pyautogui (python library)
+
 Pip (to install Pyautogui)
 
 # HOW TO GET WHAT YOU NEED:
