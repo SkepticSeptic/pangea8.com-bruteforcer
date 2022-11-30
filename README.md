@@ -4,24 +4,24 @@ What is pangea8? Why does it need to be bruteforced?
 Find out why and follow progress here: weirdbug.x10.bz
 
 # WARNING: This was tested on a linux based system (pop!_os) in order to 
-later be lightweight enough to run on 4-5ish VM's on a single PC.
+# later be lightweight enough to run on 4-5ish VM's on a single PC.
 No guarantees this will work on Windows, although it is likely to with a few tweaks, 
 which should be easy enough with my fabulous comments.
 
 
-WHAT YOU NEED:
+# WHAT YOU NEED:
 
 Python3
 Pyautogui (python library)
 Pip (to install Pyautogui)
 
-HOW TO GET
+# HOW TO GET WHAT YOU NEED:
 
   $ > sudo apt-get install python3 -upgrade
 updating python...
 
-#!! at this point you may need to download the "get-pip.py" file from here if you
-#dont already have it: https://pip.pypa.io/en/stable/installation/
+(!! at this point you may need to download the "get-pip.py" file from here if you
+dont already have it: https://pip.pypa.io/en/stable/installation/)
 
   $ > python3 get-pip.py
 installing pip...
