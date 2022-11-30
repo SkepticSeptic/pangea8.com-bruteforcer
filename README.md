@@ -3,8 +3,7 @@
 What is pangea8? Why does it need to be bruteforced?
 Find out why and follow progress here: weirdbug.x10.bz
 
-# WARNING: This was tested on a linux based system (pop!_os) in order to 
-# later be lightweight enough to run on 4-5ish VM's on a single PC.
+# WARNING: This was tested on a linux based system (pop!_os) in order to later be lightweight enough to run on 4-5ish VM's on a single PC.
 No guarantees this will work on Windows, although it is likely to with a few tweaks, 
 which should be easy enough with my fabulous comments.
 
