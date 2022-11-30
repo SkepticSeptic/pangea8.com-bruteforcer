@@ -19,17 +19,25 @@ Pip (to install Pyautogui)
 # HOW TO GET WHAT YOU NEED:
 
   $ > sudo apt-get install python3 -upgrade
+
 updating python...
 
 (!! at this point you may need to download the "get-pip.py" file from here if you
 dont already have it: https://pip.pypa.io/en/stable/installation/)
 
   $ > python3 get-pip.py
+
 installing pip...
+
   $ > pip install pyautogui
+
 installing pyautogui through pip...
+
   $ > echo enjoy trying to bruteforce pangea!
+ 
   $ > python3 pangea8brutev0.xx.py #(xx is the version number, if its at version 14 it would be "pangea8brutev0.14.py")
+  
+  
   
   
   note: feel free to edit this however you want, and email me at skepticseptic1@gmail.com with the subject "pangea8 brute"
