@@ -1,7 +1,7 @@
 # pangea8.com-bruteforcer
 
 What is pangea8? Why does it need to be bruteforced?
-Find out why and follow progress here: <a href=weirdbug.x10.bz>weirdbug.x10.bz<a>
+Find out why and follow progress here: <a href=weirdbug.x10.bz>http://www.weirdbug.x10.bz<a>
 
 # DO NOT USE THIS FOR ILLICIT ACTIVITIES, ONLY ATTEMPT THIS ON YOUR OWN DEVICES OR ON DEVICES YOU SPECIFICALLY RECIEVED PERMISSION TO PENTEST FROM THE DEVICE OWNER.
 # I am not responsible for any legal trouble you may get into for using this code
