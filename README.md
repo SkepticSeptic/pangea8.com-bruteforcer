@@ -3,6 +3,10 @@
 What is pangea8? Why does it need to be bruteforced?
 Find out why and follow progress here: weirdbug.x10.bz
 
+# DO NOT USE THIS FOR ILLICIT ACTIVITIES, ONLY ATTEMPT THIS ON YOUR OWN DEVICES OR ON DEVICES YOU SPECIFICALLY RECIEVED PERMISSION TO PENTEST FROM THE DEVICE OWNER.
+# I am not responsible for any legal trouble you may get into for using this code
+
+
 # WARNING: This was tested on a linux based system (pop!_os) in order to later be lightweight enough to run on 4-5ish VM's on a single PC.
 No guarantees this will work on Windows, although it is likely to with a few tweaks, 
 which should be easy enough with my fabulous comments.
